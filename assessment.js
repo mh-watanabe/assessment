@@ -13,7 +13,7 @@ function removeALLChildren ( devAria ) {
 
 
 'use strict';
-const answers = [
+const answer = [
   '{userName}のいいところは声です。{userName}の特徴的な声は皆を惹きつけ、心に残ります。',
   '{userName}のいいところはまなざしです。{userName}に見つめられた人は、気になって仕方がないでしょう。',
   '{userName}のいいところは情熱です。{userName}の情熱に周りの人は感化されます。',
