@@ -1,0 +1,17 @@
+body {
+    background-color: snow;
+    color: darkgray;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    color: darkgray;
+    border-style: none;
+    padding: 5px 20px;
+}
+
+input {
+    height: 20px;
+}
